@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PosMongoApplication {
+public class POSMongoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PosMongoApplication.class, args);
+        SpringApplication.run(POSMongoApplication.class, args);
     }
 
 }
